@@ -141,6 +141,7 @@
 <header>
   <h1>Arduino Obstacle-Avoiding Robot</h1>
   <p class="sub">Autonomous robot using Arduino Uno & ultrasonic sensors</p>
+  <p class="sub">Built by Abdulrhman Khablil</p>
 </header>
 
 <div class="container">
